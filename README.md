@@ -23,4 +23,4 @@ Save your GitHub id and GitHub secret by this template
 
 Look at the simple database at `./models/userModel.js` \
 If trying login as user or by GitHub, nothing special \
-If logging in as admin, you will see every current sessions living on the server. Click `Revoke` to logout a specific user
+If logging in as admin, you will see every current sessions living on the server. Click `Revoke` to logout a specific user (even GitHub user).
